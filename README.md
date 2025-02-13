@@ -58,7 +58,7 @@ vets-who-code-prework/
    ```
 2. Open the `index.html` file in your browser to view the website.
 
-Alternatively, you can check out the live version of the site here: [Live Portfolio Link](#) *(Replace with your deployed link once available)*.
+Alternatively, you can check out the live version of the site here:[https://charlesddev.github.io/VWC-Prework/].
 
 ---
 
